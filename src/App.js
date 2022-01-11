@@ -39,6 +39,7 @@ function App() {
         //div.className = 'App'
         //div.append()
         <div className='App'>
+            <h1>Hello</h1>
         <Expenses item = {expenses}/>
         </div>
     )

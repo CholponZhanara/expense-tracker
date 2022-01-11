@@ -12,3 +12,4 @@ function ExpensesItem(props) {
 	)
 }
 export default ExpensesItem
+""
